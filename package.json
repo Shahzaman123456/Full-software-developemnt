@@ -1,0 +1,16 @@
+{
+  "name": "profressionalbakend",
+  "version": "1.0.0",
+  "description": "a professinal example code ",
+  "keywords": [
+    "javascript",
+    "bakend"
+  ],
+  "license": "ISC",
+  "author": "shahzaman",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
